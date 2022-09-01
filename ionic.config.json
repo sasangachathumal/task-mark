@@ -1,0 +1,7 @@
+{
+  "name": "TaskMark",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
